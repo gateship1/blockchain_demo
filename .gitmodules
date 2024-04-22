@@ -1,0 +1,7 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:gateship1/blockchain_cxx_backend.git
+	tag = e2450c3badf5d28e01cdd9bcef23143d239ea58a
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:gateship1/blockchain_frontend.git
